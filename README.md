@@ -1,0 +1,2 @@
+# Django-gql-app
+Djangoでgql
